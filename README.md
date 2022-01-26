@@ -1,2 +1,3 @@
 # hello-world
-jus a test
+just a test
+:)
